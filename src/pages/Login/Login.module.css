@@ -1,0 +1,15 @@
+.container {
+
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.container h1 {
+    margin-bottom: 5px;
+}
+
+.container p {
+    margin-bottom: 50px;
+}

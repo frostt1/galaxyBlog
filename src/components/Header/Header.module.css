@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&display=swap');
+
+.container_bg {
+    background-color: #1f122f;
+    padding: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.brand {
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.brand span {
+    font-weight: 600;
+    color: #fbb725;
+}
+
+.container_item {
+    display: flex;
+    gap: 20px;
+
+}
+
+.container_item a {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.container_item a:hover {
+    color: #fbb725;
+}
+
+.container_item .btn_logout {
+
+    text-transform: uppercase;
+    color: #fbb725;
+    font-weight: 500;
+    padding: 8px 32px;
+    border: 1px solid #fbb725;
+    border-radius: 4px;
+    font-weight: 600;
+
+
+}
+
+.container_item .btn_logout:hover {
+    background-color: #fbb725;
+    color: #1f122f;
+
+}

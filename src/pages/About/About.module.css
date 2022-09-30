@@ -1,0 +1,15 @@
+.about {
+    margin-top: 3em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about h2 {
+    margin-bottom: 1em;
+}
+
+.about p {
+    margin-bottom: 1em;
+}

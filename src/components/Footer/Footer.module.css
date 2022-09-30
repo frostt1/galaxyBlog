@@ -1,0 +1,18 @@
+.container_footer {
+    height: 250px;
+    background-color: #1f122f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container_footer h3 {
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.container_footer p {
+    color: #fff;
+}
